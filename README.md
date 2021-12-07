@@ -1,2 +1,7 @@
-# rnn_financial_prediction
-Private repository for code used in my bachelor-thesis with the title: "Analyse der Prediction-Power von Recurrent Neural Networks am Beispiel von Finanzmarktdaten"
+# Bachelor Thesis
+
+## **Prediction of Volatility of Recurrent Neural Networks based on financial data**
+
+### thesis by Tobias Esser
+
+This Repository is for the code of the bachelor thesis by **Tobias Vincent Esser**.

@@ -209,7 +209,7 @@ def error_evaluation(epochs, loss, val_loss, model_type):
     """
     plt.plot(epochs, loss, "bo", label="Training loss")
     plt.plot(epochs, val_loss, "b", label="Validation loss")
-    plt.title("Training and validation loss:", model_type)
+    plt.title("Training and validation loss:" + model_type)
     plt.legend()
     plt.xlabel("Epochs")
     plt.ylabel("Loss Score")
